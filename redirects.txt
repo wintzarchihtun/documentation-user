@@ -138,3 +138,12 @@ helpdesk/reinvoice_from_project.rst helpdesk/timesheet_and_invoice/reinvoice_fro
 
 planning/duplicate_a_planning.rst planning/overview/duplicate_a_planning.rst    # (#567)
 planning/send_planned_shifts.rst planning/overview/send_planned_shifts.rst      # (#567)
+
+discuss/monitoring.rst discuss/overview/get_started.rst                    # (#655)
+discuss/mentions.rst discuss/overview/get_started.rst                      # (#655)
+discuss/mail_twitter.rst discuss/overview/get_started.rst                  # (#655)
+discuss/tracking.rst project/tasks/collaborate.rst                         # (#655)
+discuss/email_servers.rst discuss/advanced/email_servers.rst               # (#655)
+discuss/plan_activities.rst discuss/overview/plan_activities.rst           # (#655)
+discuss/team_communication.rst discuss/overview/team_communication.rst     # (#655)
+discuss/overview.rst discuss/overview/get_started.rst                      # (#655)
