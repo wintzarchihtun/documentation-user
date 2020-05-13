@@ -80,8 +80,8 @@ By default, Odoo has a *Public Pricelist* configured. To create more,
 go to :menuselection:`Point of Sale --> Products --> Pricelists`. Then
 click on create.
 
-When creating a pricelist, you can set several criteria to use a
-specific price: period, min. quantity, etc. You can also decide to apply
+When creating a pricelist, you can set several criteria such as period, min. quantity, etc., 
+with specific discounts. You can also decide to apply
 that pricelist on specific products or on the whole range.
 
 .. image:: media/discounts_06.png
